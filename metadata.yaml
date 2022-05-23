@@ -1,0 +1,27 @@
+_repo: Use-of-tobacco-among-North-American-Indians_68145
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Linton, Ralph
+    gutenberg_agent_id: '54626'
+    url: http://www.gutenberg.org/2009/agents/54626
+description: ''
+gutenberg_issued: '2022-05-21'
+identifiers:
+  gutenberg: '68145'
+language: en
+pgterms:marc904: https://archive.org/details/useoftobaccoamon15lint/mode/2up
+pgterms:marc905: 20211226055516linton
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Steve Mattern, Robert Tonsing and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :Field Museum of Natural History,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Use of tobacco among North American Indians
+url: http://www.gutenberg.org/ebooks/68145
